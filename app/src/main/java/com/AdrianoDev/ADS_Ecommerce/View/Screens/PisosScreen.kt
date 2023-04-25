@@ -1,0 +1,4 @@
+Olá meu nome é Adriano, sou desenvolvedor mobile e tenho conhecimento solido em Kotlin e KMM (Kotlin mutiplataforma), alem de desenvolver apps nativos android, tenho expandindo o meu conhecimento para desenvolver apps para varios sistemas
+Minha experiencia em Kotlin é consolidada nos meus apps da google play (freelancer) e portifolio mobile e futuramente portifolio web desenvolvido em kotlin(jetpack compose) e scratch.
+Alem de dominar o Kotlin com XML tbm domino o Jetpack Compose, nova ferramenta(biblioteca) de desenvolvimento e criação de UI's da Google que facilita (demais!) o desenvolvimento e criação de layouts e aplicativos no geral.
+Domino a maioria das ferramentas do desenvolvimento android como: Jetpack Compose, Room Database, Retrofit, MVVM (arquitetura que eu mais uso), Koin, Firebase, Google Cloud... e tenho total facilidade para aprender outras novas ferramentas
